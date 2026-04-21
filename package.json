@@ -1,0 +1,10 @@
+{
+  "name": "com.admiralsauce.unity-event-bus",
+  "version": "1.0.0",
+  "displayName": "Unity Event Bus",
+  "description": "A lightweight event bus for Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Git Amend"
+  }
+}
